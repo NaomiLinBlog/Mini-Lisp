@@ -39,7 +39,7 @@ g++ -o pro y.tab.o lex.yy.o -ll
 ## Process
 ### To give an simple idea
 #### Few steps will show how it gets the result for operator '+'
-* below is the example input of plus operation 
+* This is the example input of plus operation 
   * green words represent the terminal defined in the pro.l file <br>
 ![](https://i.imgur.com/vLZwRj6.png)
 * by this part of grammar, we can easily know the reduction process
